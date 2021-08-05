@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ## Stats
 
-[![Baio1977 github stats](https://github-readme-stats.vercel.app/api?username=Baio1977)](https://github.com/anuraghazra/github-readme-onedark)
+[![Baio1977 github stats](https://github-readme-onedark.vercel.app/api?username=Baio1977)](https://github.com/anuraghazra/github-readme-onedark)
 
 </div>
