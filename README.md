@@ -1,5 +1,3 @@
-### Hi
-
 <div align="center">
 
 ## ** [Baio1977](https://github.com/Baio1977) **
