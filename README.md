@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 
 ## Stats
 
-[![Baio1977 github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true=Baio1977)](https://github.com/anuraghazra/github-readme-gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 </div>
