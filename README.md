@@ -9,8 +9,6 @@
 [![](https://img.shields.io/badge/PayPal-HackintoshLifeIT-informational?style=flat&logo=paypal&logoColor=white&color=00B2EE)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RWBVVWL8H9JC2&source=url)
 
 
-<hr>
-
 ## Stats
 
 <a href="https://github.com/Baio1977/github-readme-stats">
