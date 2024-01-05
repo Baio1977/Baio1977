@@ -13,10 +13,6 @@
 
 ## Stats
 
-![Baio1977's github stats](https://github-readme-stats.vercel.app/api?username=Baio1977&show_icons=true&theme=tokyonight)- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baio1977&show_icons=true&theme=tokyonight)
-  
-</div>
-
 <a href="https://github.com/Baio1977/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Baio1977" />
 </a>
